@@ -18,5 +18,12 @@ GNS3
 Snort (optional, for IDS integration)
 Open vSwitch
 
+Credentials for Ryu, Ovs, Servers and Snort.
+User: user
+Password: password
+
+Password for Hosts 
+Password: 1234
+
 Download link 
 https://mega.nz/file/2gB2ELJB#C3PN6l_tfigBA4GJjl0_1HnSah35GnylqMy_xdk5R_8
